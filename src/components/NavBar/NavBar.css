@@ -1,0 +1,10 @@
+.white {
+	background: whitesmoke;
+}
+
+.br4 {        border-radius: 1rem;
+color: black; }
+
+.left-100 {
+  left: 100%;
+}
